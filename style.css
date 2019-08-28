@@ -1,1 +1,46 @@
 /*Personal Web Page Style Sheet */
+body {background-color: #f2e4b6;}
+.about {
+ text-align: left;
+}
+
+p {font-family: Georgia, serif;
+    }
+.career {
+    width: 50%;
+    float: right;
+    text-align: justify;
+    padding-top: 10%;
+    display: block;
+}
+h1 {
+    text-align: center;
+    font-family: "Times New Roman", serf;
+    color: darkorange;
+}
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width: 25%;
+    height: auto;}
+.summer {
+    width: 50%;
+    float: left;
+    text-align: justify;}
+
+.resize {    
+ margin-left: auto;
+  margin-right: auto;
+    width: 25%;
+    height: auto;}
+    
+    
+}
+h3 {text-align: center;
+    color: orange;}
+h2 {text-align: center;
+    color: deepskyblue;
+    }
+ul {list-style-type: circle;}
+
